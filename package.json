@@ -1,0 +1,21 @@
+{
+  "name": "vue2-leaflet-polygontooltip",
+  "version": "1.0.0",
+  "description": "polygontooltip plugin extension for vue2-leaflet package",
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:guillaumejounel/vue2-leaflet-polygontooltip.git"
+  },
+  "keywords": [
+    "vue2",
+    "leaflet",
+    "polygontooltip"
+  ],
+  "author": "Guillaume Jounel (http://guillaumejounel.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillaumejounel/vue2-leaflet-polygontooltip.git/issues"
+  },
+  "homepage": "https://github.com/guillaumejounel/vue2-leaflet-polygontooltip.git/#readme"
+}
